@@ -14,7 +14,7 @@
 - **Frontend**: React, Vite, TailwindCSS, Bootstrap  
 - **Backend**: ASP.NET Core MVC/Web API, SpringMVC, Django REST  
 - **Database**: SQL Server, MySQL  
-- **Others**: Git, Cloudinary, Firebase, Redis, Celery  
+- **Others**: Git, Cloudinary, Firebase 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
