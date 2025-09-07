@@ -46,6 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvannhanh&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=trvannhanh&theme=radical)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect with me
