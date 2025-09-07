@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Computer Science student | 💻 Aspiring Fullstack Developer <br/>
-  🌱 Currently learning <b>ASP.NET Core, React, and Mobile App Development</b> <br/>
+  🌱 Currently learning <b>ASP.NET Core, React, and Web App Development</b> <br/>
   🚀 Passionate about building web/mobile apps that solve real problems
 </p>
 
