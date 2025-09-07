@@ -46,8 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvannhanh&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=trvannhanh&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=trvannhanh&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 📫 Connect with me
