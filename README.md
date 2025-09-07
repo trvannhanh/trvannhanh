@@ -51,8 +51,8 @@
 ## 📫 Connect with me
 
 - GitHub: [@trvannhanh](https://github.com/trvannhanh)  
-- LinkedIn: *Your LinkedIn URL here*  
-- Email: *your-email@example.com*  
+- LinkedIn: *https://www.linkedin.com/in/v%C4%83n-nhanh-tr%E1%BA%A7n-b85909381/*  
+- Email: *trvannhanh@gmail.com*  
 
 ---
 
