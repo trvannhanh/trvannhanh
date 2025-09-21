@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages**: C#, JavaScript, TypeScript, Python  
+- **Languages**: C#, Java, JavaScript, TypeScript, Python  
 - **Frontend**: React, Vite, TailwindCSS, Bootstrap  
 - **Backend**: ASP.NET Core MVC/Web API, SpringMVC, Django REST  
 - **Database**: SQL Server, MySQL  
