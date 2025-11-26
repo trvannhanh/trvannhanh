@@ -13,8 +13,8 @@
 - **Languages**: C#, Java, JavaScript, TypeScript, Python  
 - **Frontend**: React, Vite, TailwindCSS, Bootstrap  
 - **Backend**: ASP.NET Core MVC/Web API, SpringMVC, Django REST  
-- **Database**: SQL Server, MySQL  
-- **Others**: Git, Cloudinary, Firebase 
+- **Database**: SQL Server, MySQL, PostgreSQL, MongoDB, Redis
+- **Others**: Git, Cloudinary, Firebase, Docker
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -34,11 +34,12 @@
 
 ## 📌 Featured Projects
 
-- 🎮 [**WordSoul**](https://github.com/trvannhanh/wordsoul) – English vocabulary learning app with gamification (ASP.NET Core + React)  
+- 🎮 [**WordSoul**](https://github.com/trvannhanh/wordsoul) – English vocabulary learning app with gamification (ASP.NET Core + React)
+- 🏪 [**Elaris Marketplace**](https://github.com/trvannhanh/elaris-marketplace) – Virtual marketplace using .NET microservices (YARP, Duende Identity, MongoDB, Redis, Postgres, RabbitMQ, MassTransit Saga, CQRS, Outbox, OpenTelemetry,...)
 - 🏥 [**Online Healthcare System**](https://github.com/trvannhanh/online-healthcare-system) – Healthcare appointment booking (SpringMVC + React)  
 - 🌊 [**AquaFarm Management**](https://github.com/trvannhanh/AquaFarm) – Aquaculture farm management (ASP.NET Core MVC + SQL Server)  
 - 🎫 [**EventGo**](https://github.com/trvannhanh/eventgo) – Event management & online ticket booking (Django REST + React Native)  
-- 📚 [**Library Web UI**](https://github.com/trvannhanh/library-web-ui) – Static frontend template for library website (HTML, CSS, JS)  
+- 📚 [**Library Web UI**](https://github.com/trvannhanh/library-web-ui) – Static frontend template for library website (HTML, CSS, JS)
 
 ---
 
