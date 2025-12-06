@@ -18,16 +18,7 @@
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 📌 Projects
-- 🎮 **WordSoul** – Vocabulary learning app with gamification  
-- 🏪 **Elaris Marketplace** – .NET microservices demo  
-- 🏥 **Online Healthcare System** – Appointment booking system  
-- 🌊 **AquaFarm Management** – Aquaculture farm management  
-- 🎫 **EventGo** – Ticket booking API + React Native  
+</p> 
 
 ---
 
