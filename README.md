@@ -1,63 +1,44 @@
 <h1 align="center">👋 Hi, I'm Nhanh</h1>
 
 <p align="center">
-  🎓 Computer Science student | 💻 Aspiring Fullstack Developer <br/>
-  🌱 Currently learning <b>ASP.NET Core, React, and Web App Development</b> <br/>
-  🚀 Passionate about building web/mobile apps that solve real problems
+  Fullstack Developer in training • Passionate about ASP.NET Core & React
 </p>
 
 ---
 
-## 🛠 Tech Stack
-
-- **Languages**: C#, Java, JavaScript, TypeScript, Python  
-- **Frontend**: React, Vite, TailwindCSS, Bootstrap  
-- **Backend**: ASP.NET Core MVC/Web API, SpringMVC, Django REST  
-- **Database**: SQL Server, MySQL, PostgreSQL, MongoDB, Redis
-- **Others**: Git, Cloudinary, Firebase, Docker
+## 🔧 Tech Stack
+**Backend:** ASP.NET Core, SpringMVC  
+**Frontend:** React, Vite, TailwindCSS  
+**Database:** SQL Server, MySQL, PostgreSQL, MongoDB  
+**Others:** Git, Docker, Firebase, Cloudinary
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-- 🎮 [**WordSoul**](https://github.com/trvannhanh/wordsoul) – English vocabulary learning app with gamification (ASP.NET Core + React)
-- 🏪 [**Elaris Marketplace**](https://github.com/trvannhanh/elaris-marketplace) – Virtual marketplace using .NET microservices (YARP, Duende Identity, MongoDB, Redis, Postgres, RabbitMQ, MassTransit Saga, CQRS, Outbox, OpenTelemetry,...)
-- 🏥 [**Online Healthcare System**](https://github.com/trvannhanh/online-healthcare-system) – Healthcare appointment booking (SpringMVC + React)  
-- 🌊 [**AquaFarm Management**](https://github.com/trvannhanh/AquaFarm) – Aquaculture farm management (ASP.NET Core MVC + SQL Server)  
-- 🎫 [**EventGo**](https://github.com/trvannhanh/eventgo) – Event management & online ticket booking (Django REST + React Native)  
-- 📚 [**Library Web UI**](https://github.com/trvannhanh/library-web-ui) – Static frontend template for library website (HTML, CSS, JS)
+## 📌 Projects
+- 🎮 **WordSoul** – Vocabulary learning app with gamification  
+- 🏪 **Elaris Marketplace** – .NET microservices demo  
+- 🏥 **Online Healthcare System** – Appointment booking system  
+- 🌊 **AquaFarm Management** – Aquaculture farm management  
+- 🎫 **EventGo** – Ticket booking API + React Native  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trvannhanh&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvannhanh&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trvannhanh&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trvannhanh&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 📫 Connect with me
-
-- GitHub: [@trvannhanh](https://github.com/trvannhanh)  
-- LinkedIn: *https://www.linkedin.com/in/v%C4%83n-nhanh-tr%E1%BA%A7n-b85909381/*  
-- Email: *trvannhanh@gmail.com*  
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=trvannhanh&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trvannhanh&color=blue" />
+</p>
